@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/Qb0ZWvg/Qcy-HT08-Melobuds-Pro-ANC-LDAC-Earbuds.jpg",
+      "name": "Wireless Bluetooth Headphones",
+      "brand": "SoundMax",
+      "price": 129.99,
+      "releaseYear": 2022,
+      "features": ["Noise Cancellation", "30 Hours Battery Life", "Bluetooth 5.0", "Fast Charging"],
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/Qb0ZWvg/Qcy-HT08-Melobuds-Pro-ANC-LDAC-Earbuds.jpg",
+      "name": "Smart Wireless Earbuds",
+      "brand": "AudioFlex",
+      "price": 79.99,
+      "releaseYear": 2023,
+      "features": ["Touch Controls", "Waterproof", "Bluetooth 5.1", "24 Hours Playtime"],
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/Qb0ZWvg/Qcy-HT08-Melobuds-Pro-ANC-LDAC-Earbuds.jpg",
+      "name": "Wireless Charging Pad",
+      "brand": "ChargePro",
+      "price": 49.99,
+      "releaseYear": 2021,
+      "features": ["Fast Charging", "Overheat Protection", "Universal Compatibility"],
+      "rating": 4.3
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/Qb0ZWvg/Qcy-HT08-Melobuds-Pro-ANC-LDAC-Earbuds.jpg",
+      "name": "Portable Bluetooth Speaker",
+      "brand": "BoomBox",
+      "price": 99.99,
+      "releaseYear": 2022,
+      "features": ["360-Degree Sound", "12 Hours Battery Life", "Waterproof", "Bluetooth 5.2"],
+      "rating": 4.6
+    }
+  ]
